@@ -1,0 +1,25 @@
+{
+  "name": "hiringassignment",
+  "version": "1.0.0",
+  "description": "This project is created for created for Hiring Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshsinghania/HiringAssignment.git"
+  },
+  "author": "Harsh Singhania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshsinghania/HiringAssignment/issues"
+  },
+  "homepage": "https://github.com/harshsinghania/HiringAssignment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
+  }
+}
